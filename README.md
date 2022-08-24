@@ -17,10 +17,8 @@ A partir de esa base vamos a seguir estas instrucciones:
 <img src='https://res.cloudinary.com/agustindi/image/upload/v1661323366/preguntas/login_2_o0nn0m.png'>
 
 * Despues A la izquierda, entramos a Server Roles y activamos la opcion sysadmin, para dar administrador al usuario.
-<img src='https://res.cloudinary.com/agustindi/image/upload/v1661323366/preguntas/login_3_lpr2ve.png'>
 
 * Ahora vamos a crear la base de datos, dando segundo click en database y en new database, a esta nueva base de datos le vamos a poner unicamente el nombre de "app_preguntas" y le damos a ok (También se puede hacer una query basica como: CREATE DATABASE app_preguntas).
-<img src='https://res.cloudinary.com/agustindi/image/upload/v1661324153/preguntas/database_1_ynrxqj.png'>
 
 * Vamos a permitir el inicio de sesion con credenciales tipo SQL (para que el usuario que recién creamos pueda usar la base de datos), para esto hay que hacer segundo click en la conexión
 <img src='https://res.cloudinary.com/agustindi/image/upload/v1661324540/preguntas/permisos_1_xyh5gr.png'>
