@@ -1,7 +1,7 @@
-# Trivia-millonaria: Prueba Tecnica - Ingeniero de Desarrollo
+# Trivia-millonaria: Prueba Técnica - Ingeniero de Desarrollo
 Aplicación de trivia que consta de 5 niveles, con premio acumulado por cada respuesta, con la posibilidad de seguir jugando hasta ganar el millon o retirarse antes de lograrlo.
 
-Como iniciar le proyecto en tu computador?:
+Como iniciar el proyecto en tu computador?:
 
 Se necesita tener instalados:
  <a href='https://nodejs.org/es/'>Node.js</a>, <a href='https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15'>MSSQL</a> y <a href='https://www.microsoft.com/es-es/sql-server/sql-server-downloads'>SQL server</a>.
@@ -49,7 +49,7 @@ La Entidad-Relación del proyecto se basa en tres modelos principales.
 * Y Question, que consta de una pregunta y la respuesta correcta a esa pregunta, siendo esta un valor entre 1 y 4.
 <img src='https://res.cloudinary.com/agustindi/image/upload/v1661325983/preguntas/modelo_vr1n7v.png'>
 
-### Tecnologias utilizadas en el proyecto:
+### Tecnologías utilizadas en el proyecto:
 
 Backend:
     SQL server - Express.js - Node.js - Mssql
