@@ -1,5 +1,5 @@
 # Trivia-millonaria: Prueba Técnica - Ingeniero de Desarrollo
-Aplicación de trivia que consta de 5 niveles, con premio acumulado por cada respuesta, con la posibilidad de seguir jugando hasta ganar el millon o retirarse antes de lograrlo.
+Aplicación de trivia que consta de 5 niveles, con premio acumulado por cada respuesta, con la posibilidad de seguir jugando hasta ganar el millón de pesos o retirarse antes de lograrlo.
 
 Como iniciar el proyecto en tu computador?:
 
