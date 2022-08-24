@@ -12,7 +12,6 @@ A partir de esa base vamos a seguir estas instrucciones:
 * Clonamos el repositorio localmente
 * Abrimos MSSQL e iniciamos sesión con windows authentication.
 * Desplegamos nuestra conexion con la base de datos y entramos a la carpeta security, despues le damos segundo click a login y seleccionamos new Login.
-<img src='https://res.cloudinary.com/agustindi/image/upload/v1661323365/preguntas/login_1_avp8fx.png'>
 
 * Creamos el usuario con la opción de SQL server authentication activada, con el nombre de yina y como contraseña 12345678.
 <img src='https://res.cloudinary.com/agustindi/image/upload/v1661323366/preguntas/login_2_o0nn0m.png'>
