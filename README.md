@@ -21,10 +21,8 @@ A partir de esa base vamos a seguir estas instrucciones:
 * Ahora vamos a crear la base de datos, dando segundo click en database y en new database, a esta nueva base de datos le vamos a poner unicamente el nombre de "app_preguntas" y le damos a ok (También se puede hacer una query basica como: CREATE DATABASE app_preguntas).
 
 * Vamos a permitir el inicio de sesion con credenciales tipo SQL (para que el usuario que recién creamos pueda usar la base de datos), para esto hay que hacer segundo click en la conexión
-<img src='https://res.cloudinary.com/agustindi/image/upload/v1661324540/preguntas/permisos_1_xyh5gr.png'>
 
 * Y entrar a las propiedades de la misma, vamos hasta security y Cambiamos server authentication de windows a SQL y windows.
-<img src='https://res.cloudinary.com/agustindi/image/upload/v1661324540/preguntas/permisos_2_z1agdk.png'>
 
 * Ahora vamos a activar el TCP\IP para poder conectarnos desde el codigo! para ello hay que dar segundo click a "este equipo" y entrar en "Administrar", luego abrimos la ultima opcion, "Servicios y Aplicaciones", abrimos la que empieza con SQL server y entramos a la que se llama SQL server Network Configuration, despues entramos a Protocols (el unico archivo que hay) y lo "habilitamos", dandole segundo click y clickeando en "Enabled"
 
