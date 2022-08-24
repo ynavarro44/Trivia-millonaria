@@ -14,7 +14,6 @@ A partir de esa base vamos a seguir estas instrucciones:
 * Desplegamos nuestra conexion con la base de datos y entramos a la carpeta security, despues le damos segundo click a login y seleccionamos new Login.
 
 * Creamos el usuario con la opción de SQL server authentication activada, con el nombre de yina y como contraseña 12345678.
-<img src='https://res.cloudinary.com/agustindi/image/upload/v1661323366/preguntas/login_2_o0nn0m.png'>
 
 * Despues A la izquierda, entramos a Server Roles y activamos la opcion sysadmin, para dar administrador al usuario.
 
@@ -42,7 +41,6 @@ La Entidad-Relación del proyecto se basa en tres modelos principales.
 * El de Category, que guarda las 5 categorias que existen en el juego y el respectivo premio al ganar en una de ellas, este tiene una relacion de muchas preguntas para una categoria.
 * El de Answers, que contiene 4 respuestas y tiene una relacion uno a uno con Question.
 * Y Question, que consta de una pregunta y la respuesta correcta a esa pregunta, siendo esta un valor entre 1 y 4.
-<img src='https://res.cloudinary.com/agustindi/image/upload/v1661325983/preguntas/modelo_vr1n7v.png'>
 
 ### Tecnologías utilizadas en el proyecto:
 
