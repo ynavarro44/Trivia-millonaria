@@ -38,7 +38,7 @@ A partir de esa base vamos a seguir estas instrucciones:
 
 ### Modelo Entidad-Relación:
 La Entidad-Relación del proyecto se basa en tres modelos principales.
-* El de Category, que guarda las 5 categorias que existen en el juego y el respectivo premio al ganar en una de ellas, este tiene una relacion de muchas preguntas para una categoria.
+* El de Category, que guarda las 5 categorias que existen en el juego y el respectivo premio al ganar en una de ellas, este tiene una relacion de muchas preguntas para una categoria.<img src="https://res.cloudinary.com/app-comid/image/upload/v1662140641/recipes/WhatsApp_Image_2022-08-24_at_11.33.39_AM_tjr0so.jpg"/>
 * El de Answers, que contiene 4 respuestas y tiene una relacion uno a uno con Question.
 * Y Question, que consta de una pregunta y la respuesta correcta a esa pregunta, siendo esta un valor entre 1 y 4.
 
