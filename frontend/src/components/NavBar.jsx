@@ -9,7 +9,7 @@ export default function NavBar({level, reward, setLevel, setReward}) {
                 {
                     level !== 0 && <p id='level'>Nivel: {level}</p>
                 }
-                <button id='reload' onClick={()=>setLevel(0)}><img src="https://res.cloudinary.com/agustindi/image/upload/v1661309509/Portfolio/icons8-actualizar-50_obuuuy.png" alt='reload'></img></button>
+                <button id='reload' onClick={()=>setLevel(0)}><img src="https://res.cloudinary.com/app-comid/image/upload/v1662339713/recipes/icons8_c8ekfj.png" alt='reload'></img></button>
                 <p>${reward}</p>
             </div>
         </div>
